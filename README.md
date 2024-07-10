@@ -1,0 +1,1 @@
+[![Build Status](https://dev.azure.com/admore0589/FirstProj/_apis/build/status%2FAdesh-more98.application?branchName=main)](https://dev.azure.com/admore0589/FirstProj/_build/latest?definitionId=2&branchName=main)
